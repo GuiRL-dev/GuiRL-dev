@@ -21,8 +21,8 @@ My name is Guilherme, I'm 18 years old! Currently i'm a student at Instituto PRO
 
 ##
 
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/guilhermerochadev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermerochadev)
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/guilhermerochadev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiRL-dev/GuiRL-dev/output/github-contribution-grid-snake-dark.svg">
