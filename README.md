@@ -3,7 +3,6 @@ My name is Guilherme, I'm 18 years old! Currently i'm a student at Instituto PRO
 -----
 
 ![](https://github-readme-stats.vercel.app/api?username=GuiRL-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-[![](https://streak-stats.demolab.com?user=GuiRL-dev&theme=dark&card_width=200&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRL-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
 
 <div style="display: inline-block">
