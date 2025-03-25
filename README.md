@@ -1,5 +1,5 @@
 # Hello! Welcome to my GitHub!💡
-My name is Guilherme, I'm 18 years old! Currently i'm a student at Instituto PROA,</br> with a current focus on full stack web development!💻
+My name is Guilherme, I'm 18 years old! I'm a student with a current focus on full stack web development!💻
 -----
 
 ![](https://github-readme-stats.vercel.app/api?username=GuiRL-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide=contribs)
