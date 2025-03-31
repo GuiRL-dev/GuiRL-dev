@@ -9,9 +9,9 @@
 
 ##
 
-<p>Certified in Full Stack Web Development by <a href="https://www.proa.org.br/">Instituto Proa</a> and <a href="https://www.sp.senac.br/">Senac</a>.</p>
-<p>Pursuing a degree in Systems Analysis and Development at <a href="https://portal.anhembi.br/">Universidade Anhembi Morumbi<a/>.</p>
-<p>Studying Back-End Development through <a href="https://www.oracle.com/br/education/oracle-next-education/">Oracle One</a>.</p>
+<p>🧩 Certified in Full Stack Web Development by <a href="https://www.proa.org.br/">Instituto Proa</a> and <a href="https://www.sp.senac.br/">Senac</a>.</p>
+<p>🎓 Pursuing a degree in Systems Analysis and Development at <a href="https://portal.anhembi.br/">Universidade Anhembi Morumbi<a/>.</p>
+<p>💻 Studying Back-End Development through <a href="https://www.oracle.com/br/education/oracle-next-education/">Oracle One</a>.</p>
 
 ##
 
