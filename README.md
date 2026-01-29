@@ -11,7 +11,7 @@
 
 <p>🧩 Certified in Full Stack Web Development by <a href="https://www.proa.org.br/">Instituto Proa</a> and <a href="https://www.sp.senac.br/">Senac</a>.</p>
 <p>🎓 Pursuing a degree in Computer science at <a href="https://www.vemprafam.com.br/">Faculdade das Americas<a/>.</p>
-<p>💻 Software engineer Intern at Bradesco.</p>
+<p>💻 Software Engineer Intern at Bradesco.</p>
 
 ##
 
