@@ -2,11 +2,6 @@
 
 <p>Feel free to check out my projects!</p>
 
-<div>
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=GuiRL-dev&show_icons=true&theme=transparent&hide=contribs&title_color=71FC7B&icon_color=71FC7B&border_color=71FC7B&text_color=00e5a3">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRL-dev&theme=transparent&hide=html,css&title_color=71FC7B&border_color=71FC7B&text_color=00e5a3">
-</div>
-
 ##
 
 <p>🧩 Certified in Full Stack Web Development by <a href="https://www.proa.org.br/">Instituto Proa</a> and <a href="https://www.sp.senac.br/">Senac</a>.</p>
